@@ -1,0 +1,6 @@
+setup.py
+your_package.egg-info
+__pycache__
+cleared\ data/
+.vscode
+.env
