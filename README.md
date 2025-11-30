@@ -2,7 +2,7 @@
 
 **ETL pipeline dla danych z PSE** — projekt automatyzujący pobieranie, transformację i ładowanie danych m.in. krajowej generacji KSE, parametrów mocy bilansujących itp. do bazy danych PostgreSQL. Daje możliwość kofiguracji pod preferowane dane z PSE API.
 
-## 🧰 Co to jest  
+## 🧰 Opis projektu
 
 - Projekt pobiera dane z publicznego API Polskich Sieci Elektroeneretycznych dotyczących rynku energii
 - Transformuje dane — waliduje, porządkuje strukturę, normalizuje formaty  
